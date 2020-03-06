@@ -51,6 +51,31 @@ gtk3:
       packages: [gtk3]
 libazure-iot-sdk-c:
   windows: [libazure-iot-sdk-c]
+libboost-dev:
+  windows:
+    chocolatey:
+      depends: [boost]
+      packages: []
+libboost-system-dev:
+  windows:
+    chocolatey:
+      depends: [boost]
+      packages: []
+libboost-regex-dev:
+  windows:
+    chocolatey:
+      depends: [boost]
+      packages: []
+libboost-thread-dev:
+  windows:
+    chocolatey:
+      depends: [boost]
+      packages: []
+libboost-filesystem-dev:
+  windows:
+    chocolatey:
+      depends: [boost]
+      packages: []
 libcairo2-dev:
   windows: [cairo]
 libccd-dev:
