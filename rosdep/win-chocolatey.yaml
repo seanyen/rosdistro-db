@@ -504,8 +504,6 @@ python3-mock:
   windows:
     pip:
       packages: [mock]
-python3-netifaces:
-  windows: []
 python3-numpy:
   windows:
     pip:
