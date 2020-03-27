@@ -581,8 +581,6 @@ qt5-qmake:
   windows: [qt5-sdk]
 qtbase5-dev:
   windows: [qt5-sdk]
-rosbag_migration_rule:
-  windows: []
 rsync:
   windows: []
 sbcl:
